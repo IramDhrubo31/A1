@@ -1,0 +1,64 @@
+.first_container{
+    display: flex;
+    margin-left: 50px;
+}
+.ObamaTitle{
+    color: #707070;
+    font-size: 50px;
+}
+
+.webDeveloper{
+    font-size: 25px;
+}
+
+
+.superstar_img1{
+    margin-top: 10px;
+
+}
+
+.second_container{
+    display: flex;
+    margin-left: 50px;
+    gap: 5vw;
+}
+
+.superstar_img2{
+    max-width: 20%;
+    margin-left: 110px;
+}
+
+
+.paragraph{
+    margin-top: 30px;
+    margin-right: 500px;
+
+}
+
+.aboutMe{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.third_container{
+    display: flex;
+    gap: 16px;
+    margin: 16px;
+}
+
+.ui, .webDev,.appDev {
+    border: 2px solid rgb(150, 147, 147);
+    padding-left: 25px;
+    padding-right: 60px;
+}
+
+.ui, .toDo{
+    margin-left: 15px;
+}
+.appDev{
+    margin-right: 100px;
+}
+
+.icon{
+    padding-top: 10px;
+}
