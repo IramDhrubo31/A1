@@ -1,13 +1,13 @@
 .first_container{
     display: flex;
-    margin-left: 50px;
+    margin-left: 15px;
 }
 .ObamaTitle{
     color: #707070;
     font-size: 50px;
 }
 
-.webDeveloper{
+.webDeveloper, .aboutMeTitle{
     font-size: 25px;
 }
 
@@ -55,10 +55,20 @@
 .ui, .toDo{
     margin-left: 15px;
 }
+
+.toDo{
+    margin-top: 80px;
+}
 .appDev{
     margin-right: 100px;
 }
 
 .icon{
     padding-top: 10px;
+}
+
+.rights{
+    color: #787878;
+    margin-top: 70px;
+    margin-left: 15px;
 }
